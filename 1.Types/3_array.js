@@ -1,9 +1,9 @@
 "use strict";
 // 3. array
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 // 3.1 :: syntax 1
 var club1;
-club1 = ["psg", "bercelona", "real madrid"];
+club1 = ["psg trrrrrrrrr", "bercelona", "real madrid"];
 var jersy1 = [10, 23, 8];
 console.log("array syntax 1 :: club1 & jersy1 ", club1, jersy1);
 // 3.2 :: syntax 2

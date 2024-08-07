@@ -5,6 +5,6 @@
     "noImplicitAny": false,
     "strictNullChecks": true,
     "removeComments": true,
-    "lib": ["ES2020"]
+    "lib": ["ES6", "DOM", "ES2020"]
   }
 }

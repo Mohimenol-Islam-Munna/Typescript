@@ -1,6 +1,6 @@
 "use strict";
 // 1. Primitives
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 // 1.1 string
 var player1;
 player1 = "messi";
